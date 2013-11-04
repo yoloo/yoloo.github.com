@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Yoloo's Blog]]></title>
-  <link href="http://yoloo.github.io/atom.xml" rel="self"/>
-  <link href="http://yoloo.github.io/"/>
-  <updated>2013-11-04T23:01:41+08:00</updated>
-  <id>http://yoloo.github.io/</id>
+  <link href="http://yoloo.github.com/atom.xml" rel="self"/>
+  <link href="http://yoloo.github.com/"/>
+  <updated>2013-11-04T23:12:00+08:00</updated>
+  <id>http://yoloo.github.com/</id>
   <author>
     <name><![CDATA[yoloo]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Night, Blog]]></title>
-    <link href="http://yoloo.github.io/blog/2013/11/04/night-blog/"/>
+    <link href="http://yoloo.github.com/blog/2013/11/04/night-blog/"/>
     <updated>2013-11-04T21:30:00+08:00</updated>
-    <id>http://yoloo.github.io/blog/2013/11/04/night-blog</id>
+    <id>http://yoloo.github.com/blog/2013/11/04/night-blog</id>
     <content type="html"><![CDATA[<hr />
 
 <p>在这夜深人静的时刻，blog终于搭建完毕。

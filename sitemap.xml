@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoloo.github.io/blog/2013/11/04/night-blog/</loc>
+        <loc>http://yoloo.github.com/blog/2013/11/04/night-blog/</loc>
         <lastmod>2013-11-04T22:49:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoloo.github.io/</loc>
+        <loc>http://yoloo.github.com/</loc>
         <lastmod>2013-11-04T22:49:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoloo.github.io/blog/</loc>
+        <loc>http://yoloo.github.com/blog/</loc>
         <lastmod>2013-11-04T22:49:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoloo.github.io/blog/archives/</loc>
+        <loc>http://yoloo.github.com/blog/archives/</loc>
         <lastmod>2013-11-04T22:49:27+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoloo.github.io/robots.txt</loc>
+        <loc>http://yoloo.github.com/robots.txt</loc>
         <lastmod>2013-11-04T22:49:27+08:00</lastmod>
     </url>
 </urlset>
