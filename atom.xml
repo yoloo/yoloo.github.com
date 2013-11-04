@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Yoloo's Blog]]></title>
+  <link href="http://yoloo.github.io/atom.xml" rel="self"/>
+  <link href="http://yoloo.github.io/"/>
+  <updated>2013-11-04T21:13:20+08:00</updated>
+  <id>http://yoloo.github.io/</id>
+  <author>
+    <name><![CDATA[yoloo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
