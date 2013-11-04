@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "night-blog"
+title: "Night Blog"
 date: 2013-11-04 21:30
 comments: true
 categories: 
