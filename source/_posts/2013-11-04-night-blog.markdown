@@ -15,6 +15,6 @@ categories:
 不过一想到能有这么个属于自己的小天地可以和一些志同道合的童鞋们交流，还是坚持了下来！
 嘿嘿，以后就要坚持写博客了！
 
-Okay，夜已深，Night, my blog！
+Okay，夜已深。Night, my blog！
 
 ---
