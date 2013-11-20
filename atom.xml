@@ -4,7 +4,7 @@
   <title><![CDATA[Yoloo's Blog]]></title>
   <link href="http://yoloo.github.com/atom.xml" rel="self"/>
   <link href="http://yoloo.github.com/"/>
-  <updated>2013-11-20T22:22:01+08:00</updated>
+  <updated>2013-11-20T22:25:20+08:00</updated>
   <id>http://yoloo.github.com/</id>
   <author>
     <name><![CDATA[yoloo]]></name>
@@ -18,7 +18,11 @@
     <link href="http://yoloo.github.com/blog/2013/11/20/shell-series-01/"/>
     <updated>2013-11-20T22:14:00+08:00</updated>
     <id>http://yoloo.github.com/blog/2013/11/20/shell-series-01</id>
-    <content type="html"><![CDATA[<h2>移动</h2>
+    <content type="html"><![CDATA[<p>最近，在折腾 <strong>vim</strong>，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考<a href="http://rainbird.blog.51cto.com/211214/66031">这里</a>。熟练之后，顿时有了种高手的感觉，贴出来以备不时只需。</p>
+
+<hr />
+
+<h2>移动</h2>
 
 <p><strong>ctrl + a</strong>：将光标移动到命令行开头</p>
 
