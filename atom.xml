@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Yoloo's Blog]]></title>
+  <title><![CDATA[一枝铅笔不寂寞]]></title>
   <link href="http://yoloo.github.com/atom.xml" rel="self"/>
   <link href="http://yoloo.github.com/"/>
-  <updated>2013-11-21T21:25:00+08:00</updated>
+  <updated>2013-11-21T21:45:08+08:00</updated>
   <id>http://yoloo.github.com/</id>
   <author>
     <name><![CDATA[yoloo]]></name>
