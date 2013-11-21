@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://yoloo.github.com
-title: Yoloo's Blog 
+title: 一枝铅笔不寂寞
 subtitle: 临渊羡鱼，不如退而织网！ 
 author: yoloo 
 simple_search: http://google.com/search
@@ -90,8 +90,12 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+# disqus_short_name: 
+# disqus_show_comment_count: false 
+
+# Duoshuo comments
+duoshuo_show_comment_count: true
+duoshuo_short_name: 一枝铅笔不寂寞
 
 # Google Analytics
 google_analytics_tracking_id:
