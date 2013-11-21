@@ -4,7 +4,7 @@
   <title><![CDATA[Yoloo's Blog]]></title>
   <link href="http://yoloo.github.com/atom.xml" rel="self"/>
   <link href="http://yoloo.github.com/"/>
-  <updated>2013-11-21T20:53:19+08:00</updated>
+  <updated>2013-11-21T20:57:25+08:00</updated>
   <id>http://yoloo.github.com/</id>
   <author>
     <name><![CDATA[yoloo]]></name>
@@ -18,11 +18,7 @@
     <link href="http://yoloo.github.com/blog/2013/11/20/shell-series-01/"/>
     <updated>2013-11-20T22:14:00+08:00</updated>
     <id>http://yoloo.github.com/blog/2013/11/20/shell-series-01</id>
-    <content type="html"><![CDATA[<h1>linux shell 常用快捷键</h1>
-
-<hr />
-
-<p>最近，在折腾 <strong>vim</strong>，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考<a href="http://rainbird.blog.51cto.com/211214/66031">这里</a>。熟练之后，顿时有了种摆脱菜鸟的感觉。Okay，贴出来以备不时只需，也希望对想进阶的童鞋有所帮助。</p>
+    <content type="html"><![CDATA[<p>最近，在折腾 <strong>vim</strong>，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考<a href="http://rainbird.blog.51cto.com/211214/66031">这里</a>。熟练之后，顿时有了种摆脱菜鸟的感觉。Okay，贴出来以备不时只需，也希望对想进阶的童鞋有所帮助。</p>
 
 <hr />
 
@@ -94,11 +90,11 @@
 
 <p><strong>ctrl + l</strong>：清屏相当于命令clear</p>
 
-<p><strong>ctrl + i</strong>：类似TAB健补全功能</p>
-
-<hr />
+<p><strong>ctrl + i</strong>：类似tab键补全功能</p>
 
 <p><strong>ctrl + o</strong>：重复执行命令</p>
+
+<hr />
 ]]></content>
   </entry>
   
