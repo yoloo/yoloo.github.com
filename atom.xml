@@ -4,7 +4,7 @@
   <title><![CDATA[一枝铅笔不寂寞]]></title>
   <link href="http://yoloo.github.com/atom.xml" rel="self"/>
   <link href="http://yoloo.github.com/"/>
-  <updated>2014-12-24T12:13:01+08:00</updated>
+  <updated>2014-12-24T14:07:18+08:00</updated>
   <id>http://yoloo.github.com/</id>
   <author>
     <name><![CDATA[yoloo]]></name>
@@ -21,8 +21,7 @@
     <content type="html"><![CDATA[<p>最近，在折腾 <strong>vim</strong>，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考<a href="http://rainbird.blog.51cto.com/211214/66031">这里</a>。熟练之后，顿时有了种摆脱菜鸟的感觉。Okay，贴出来以备不时只需，也希望对想进阶的童鞋有所帮助。</p>
 
 <hr />
-
-<h2>移动</h2>
+<p>## 移动</p>
 
 <p><strong>ctrl + a</strong>：将光标移动到命令行开头</p>
 
@@ -37,8 +36,7 @@
 <p><strong>ctrl + 左方向键</strong>：将光标向前移动一个单词</p>
 
 <hr />
-
-<h2>删除</h2>
+<p>## 删除</p>
 
 <p><strong>ctrl + d</strong>：向后删除光标所在位置上的字符</p>
 
@@ -59,8 +57,7 @@
 <p><strong>alt + d</strong>:删除光标所在位置后的单词</p>
 
 <hr />
-
-<h2>替换</h2>
+<p>## 替换</p>
 
 <p><strong>ctrl +t</strong>：将光标当前字符与前一字符替换</p>
 
@@ -71,8 +68,7 @@
 <p><strong>alt + l</strong>：将光标当前位置单词变为小写</p>
 
 <hr />
-
-<h2>历史命令</h2>
+<p>## 历史命令</p>
 
 <p><strong>ctrl + p</strong>：返回上一次输入命令</p>
 
@@ -81,8 +77,7 @@
 <p><strong>ctrl + r</strong>：输入并搜索历史输入命令</p>
 
 <hr />
-
-<h2>其它</h2>
+<p>## 其它</p>
 
 <p><strong>ctrl + s</strong>：锁住终端</p>
 
@@ -95,6 +90,7 @@
 <p><strong>ctrl + o</strong>：重复执行命令</p>
 
 <hr />
+
 ]]></content>
   </entry>
   
@@ -107,11 +103,8 @@
 
 <p>在这夜深人静的时刻，blog终于搭建完毕。
 虽然有点困，但却异常兴奋。
-尽管从查阅资料，搭建环境，动手实践，折腾了好几天。</p>
-
-<p>&ndash;</p>
-
-<p>期间呢，也碰到了一些问题，说实话真的有想过放弃，心想着折腾这干嘛啊？
+尽管从查阅资料，搭建环境，动手实践，折腾了好几天。
+期间呢，也碰到了一些问题，说实话真的有想过放弃，心想着折腾这干嘛啊？
 不过一想到能有这么个属于自己的小天地可以和一些志同道合的童鞋们交流，还是坚持了下来！
 嘿嘿，以后就要坚持写博客了！</p>
 
