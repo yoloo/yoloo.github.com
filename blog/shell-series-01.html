@@ -5,16 +5,11 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Night, Blog - 一枝铅笔不寂寞</title>
+  <title>linux shell常用快捷键 - 一枝铅笔不寂寞</title>
   <meta name="author" content="yoloo">
 
   
-  <meta name="description" content="在这夜深人静的时刻，blog终于搭建完毕。
-虽然有点困，但却异常兴奋。
-尽管从查阅资料，搭建环境，动手实践，折腾了好几天。
-期间呢，也碰到了一些问题，说实话真的有想过放弃，心想着折腾这干嘛啊？
-不过一想到能有这么个属于自己的小天地可以和一些志同道合的童鞋们交流，还是坚持了下来！
-嘿嘿， &hellip;">
+  <meta name="description" content="最近，在折腾 vim，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考这里。熟练之后，顿时有了种摆脱菜鸟的感觉。Okay，贴出来以备不时只需，也希望对想进阶的童鞋有所帮助。 移动 ctrl + a：将光标移动到命令行开头 ctrl + e：将光标移动到命令行末尾 ctrl + f： &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -23,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://yoloo.github.com/blog/2013/11/04/night-blog">
+  <link rel="canonical" href="http://yoloo.github.com/blog/shell-series-01.html">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="一枝铅笔不寂寞" type="application/atom+xml">
@@ -74,7 +69,7 @@
   
   <header>
     
-      <h1 class="entry-title">Night, Blog</h1>
+      <h1 class="entry-title">Linux Shell常用快捷键</h1>
     
     
       <p class="meta">
@@ -90,23 +85,88 @@
   
 
 
-<time datetime="2013-11-04T21:30:00+08:00" pubdate data-updated="true">Nov 4<span>th</span>, 2013</time>
+<time datetime="2013-11-20T22:14:00+08:00" pubdate data-updated="true">2013 年11 月20 日</time>
         
       </p>
     
   </header>
 
 
-<div class="entry-content"><hr />
+<div class="entry-content"><p>最近，在折腾 <strong>vim</strong>，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考<a href="http://rainbird.blog.51cto.com/211214/66031">这里</a>。熟练之后，顿时有了种摆脱菜鸟的感觉。Okay，贴出来以备不时只需，也希望对想进阶的童鞋有所帮助。</p>
 
-<p>在这夜深人静的时刻，blog终于搭建完毕。
-虽然有点困，但却异常兴奋。
-尽管从查阅资料，搭建环境，动手实践，折腾了好几天。
-期间呢，也碰到了一些问题，说实话真的有想过放弃，心想着折腾这干嘛啊？
-不过一想到能有这么个属于自己的小天地可以和一些志同道合的童鞋们交流，还是坚持了下来！
-嘿嘿，以后就要坚持写博客了！</p>
+<hr />
 
-<p>Okay，夜已深。Night, my blog！</p>
+<h2>移动</h2>
+
+<p><strong>ctrl + a</strong>：将光标移动到命令行开头</p>
+
+<p><strong>ctrl + e</strong>：将光标移动到命令行末尾</p>
+
+<p><strong>ctrl + f</strong>：将光标向后移动一个字符</p>
+
+<p><strong>ctrl + b</strong>：将光标向前移动一个字符</p>
+
+<p><strong>ctrl + 右方向键</strong>：将光标向后移动一个单词</p>
+
+<p><strong>ctrl + 左方向键</strong>：将光标向前移动一个单词</p>
+
+<hr />
+
+<h2>删除</h2>
+
+<p><strong>ctrl + d</strong>：向后删除光标所在位置上的字符</p>
+
+<p><strong>ctrl + h</strong>：向前删除光标所在位置上的字符</p>
+
+<p><strong>ctrl + k</strong>：删除光标后的所有字符</p>
+
+<p><strong>ctrl + u</strong>：删除光标前的所有字符</p>
+
+<p><strong>ctrl + w</strong>：删除光标前的一个单词</p>
+
+<p><strong>ctrl + y</strong>：恢复前次执行 <strong>ctrl + k/u/w</strong> 所删除的字符</p>
+
+<p><strong>ctrl + ?</strong>：撤销前一次输入</p>
+
+<p><strong>alt + r</strong>：撤销前一次动作</p>
+
+<p><strong>alt + d</strong>:删除光标所在位置后的单词</p>
+
+<hr />
+
+<h2>替换</h2>
+
+<p><strong>ctrl +t</strong>：将光标当前字符与前一字符替换</p>
+
+<p><strong>alt + t</strong>：交换光标当前位置单词和光标前一位置单词</p>
+
+<p><strong>alt + u</strong>：将光标当前位置单词变为大写</p>
+
+<p><strong>alt + l</strong>：将光标当前位置单词变为小写</p>
+
+<hr />
+
+<h2>历史命令</h2>
+
+<p><strong>ctrl + p</strong>：返回上一次输入命令</p>
+
+<p><strong>alt + p</strong>：输入并搜索最相近的历史输入命令</p>
+
+<p><strong>ctrl + r</strong>：输入并搜索历史输入命令</p>
+
+<hr />
+
+<h2>其它</h2>
+
+<p><strong>ctrl + s</strong>：锁住终端</p>
+
+<p><strong>ctrl + q</strong>：解锁终端</p>
+
+<p><strong>ctrl + l</strong>：清屏相当于命令clear</p>
+
+<p><strong>ctrl + i</strong>：类似tab键补全功能</p>
+
+<p><strong>ctrl + o</strong>：重复执行命令</p>
 
 <hr />
 </div>
@@ -131,7 +191,7 @@
   
 
 
-<time datetime="2013-11-04T21:30:00+08:00" pubdate data-updated="true">Nov 4<span>th</span>, 2013</time>
+<time datetime="2013-11-20T22:14:00+08:00" pubdate data-updated="true">2013 年11 月20 日</time>
       
 
 
@@ -146,8 +206,8 @@
     
     <p class="meta">
       
+        <a class="basic-alignment left" href="/blog/night-blog.html" title="Previous Post: Night, Blog">&laquo; Night, Blog</a>
       
-        <a class="basic-alignment right" href="/blog/2013/11/20/shell-series-01/" title="Next Post: linux shell常用快捷键">linux shell常用快捷键 &raquo;</a>
       
     </p>
   </footer>
@@ -187,11 +247,11 @@ var duoshuoQuery = {short_name:"yoloo"};
   <ul id="recent_posts">
     
       <li class="post">
-        <a href="/blog/2013/11/20/shell-series-01/">Linux Shell常用快捷键</a>
+        <a href="/blog/shell-series-01.html">Linux Shell常用快捷键</a>
       </li>
     
       <li class="post">
-        <a href="/blog/2013/11/04/night-blog/">Night, Blog</a>
+        <a href="/blog/night-blog.html">Night, Blog</a>
       </li>
     
   </ul>

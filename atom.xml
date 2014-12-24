@@ -4,7 +4,7 @@
   <title><![CDATA[一枝铅笔不寂寞]]></title>
   <link href="http://yoloo.github.com/atom.xml" rel="self"/>
   <link href="http://yoloo.github.com/"/>
-  <updated>2014-12-24T08:33:38+08:00</updated>
+  <updated>2014-12-24T12:13:01+08:00</updated>
   <id>http://yoloo.github.com/</id>
   <author>
     <name><![CDATA[yoloo]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[linux shell常用快捷键]]></title>
-    <link href="http://yoloo.github.com/blog/2013/11/20/shell-series-01/"/>
+    <link href="http://yoloo.github.com/blog/shell-series-01.html"/>
     <updated>2013-11-20T22:14:00+08:00</updated>
-    <id>http://yoloo.github.com/blog/2013/11/20/shell-series-01</id>
+    <id>http://yoloo.github.com/blog/shell-series-01</id>
     <content type="html"><![CDATA[<p>最近，在折腾 <strong>vim</strong>，顺便也学习到了一些之前不曾用过的 shell 快捷键，主要参考<a href="http://rainbird.blog.51cto.com/211214/66031">这里</a>。熟练之后，顿时有了种摆脱菜鸟的感觉。Okay，贴出来以备不时只需，也希望对想进阶的童鞋有所帮助。</p>
 
 <hr />
@@ -100,15 +100,18 @@
   
   <entry>
     <title type="html"><![CDATA[Night, Blog]]></title>
-    <link href="http://yoloo.github.com/blog/2013/11/04/night-blog/"/>
+    <link href="http://yoloo.github.com/blog/night-blog.html"/>
     <updated>2013-11-04T21:30:00+08:00</updated>
-    <id>http://yoloo.github.com/blog/2013/11/04/night-blog</id>
+    <id>http://yoloo.github.com/blog/night-blog</id>
     <content type="html"><![CDATA[<hr />
 
 <p>在这夜深人静的时刻，blog终于搭建完毕。
 虽然有点困，但却异常兴奋。
-尽管从查阅资料，搭建环境，动手实践，折腾了好几天。
-期间呢，也碰到了一些问题，说实话真的有想过放弃，心想着折腾这干嘛啊？
+尽管从查阅资料，搭建环境，动手实践，折腾了好几天。</p>
+
+<p>&ndash;</p>
+
+<p>期间呢，也碰到了一些问题，说实话真的有想过放弃，心想着折腾这干嘛啊？
 不过一想到能有这么个属于自己的小天地可以和一些志同道合的童鞋们交流，还是坚持了下来！
 嘿嘿，以后就要坚持写博客了！</p>
 
